@@ -8,5 +8,6 @@ public class Gitdemo {
         int b = 20;
 
         System.out.println("Addition: " + (a + b));
+        System.out.println("My first GitHub update!");
     }
 }
